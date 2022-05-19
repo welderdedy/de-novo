@@ -70,7 +70,7 @@
    button:hover{
      background-color:purple;
      color:pink;
-     border-radius:50px;
+     border-radius:55px;
    }
    main{
      display:flex;
@@ -87,7 +87,7 @@
    .t2{
      width:30px;
      border:40px;
-     border-radius:40px;
+     border-radius:50px;
    }
    .t3{
      width:30px;
