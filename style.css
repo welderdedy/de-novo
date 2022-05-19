@@ -1,0 +1,105 @@
+*{
+    margin:0px; 
+    padding:0px
+   }
+   header{
+     display:flex;
+     background-color:white;
+   }
+   .dedy1{
+     display:flex;
+     display:inline-block;
+     margin:0px 0px 0px 360px;
+     font-size:20px;
+     color:green;
+   }
+   .dedy2{
+      display:flex;
+     display:inline-block;
+     margin:0px 0px 0px 200px;
+     font-size:20px;
+     color:blue;
+   }
+   .dedy3{
+      display:flex;
+     display:inline-block;
+     margin:0px 0px 0px 220px;
+     font-size:20px;
+     color:red;
+   }
+   body{
+     width:100%;
+     height:100vw;
+      background-color:aqua;
+   }
+   figcaption{
+     display:flex;
+     flex-direction:row;
+     display:inline-block;
+     margin:0px 0px 0px 10px;
+     border-radius:80px;
+     border:40px;
+     cursor:pointer;
+   }
+   .w2{
+     display:flex;
+     flex-direction:row;
+     display:inline-block;
+     margin:0px 0px 0px 80px;
+     border-radius:80px;
+     border:40px;
+     cursor:pointer;
+   }
+   .w3{
+     display:flex;
+     flex-direction:row;
+     display:inline-block;
+     margin:80px 0px 0px 190px;
+     cursor:pointer;
+   }
+   button{
+     text-align:center;
+     border-radios:80px;
+     border:100px;
+     color:blue;
+     background-color:red;
+     font-size:18px;
+      margin:10px 0px 0px 0px;
+     padding:10px 0px 0px 10px;
+     }
+   button:hover{
+     background-color:purple;
+     color:pink;
+     border-radius:50px;
+   }
+   main{
+     display:flex;
+     background-color:orange;
+     height:32%;
+   }
+   .t1{
+     width:30px;
+     border:40px;
+     border-radius:40px;
+     margin:0px 0px 0px 180px;
+     padding:0px 0px 0px 10px;
+   }
+   .t2{
+     width:30px;
+     border:40px;
+     border-radius:40px;
+   }
+   .t3{
+     width:30px;
+     border:40px;
+     border-radius:40px;
+   }
+   .t4{
+     width:50px;
+     border:40px;
+     border-radius:40px;
+   }
+   footer{
+     background-color:brown;
+   }
+   
